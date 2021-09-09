@@ -2,12 +2,22 @@ package org.owino.concept;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.List;
 
 /**
  * Moves cleaned up content to target android studios resourceFile iteratively
  *
  */
 public interface ContentMover {
+
+    /**
+     * Moves content to other matching folders based on a locale signature e.g
+     * ar-xx, ab-xx
+     *
+     * @param key - String - Root Key
+     * @return - List additionally supported keys if any
+     */
+    List<String> checkIfMoveMultipleFoldersBySignatureIfNecessary(String key);
 
     /**
      * Copy past the cleaned up contents to the final android studio resource file directory

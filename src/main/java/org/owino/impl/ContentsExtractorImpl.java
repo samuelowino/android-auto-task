@@ -13,15 +13,15 @@ import java.util.Map;
 public class ContentsExtractorImpl implements ContentsExtractor {
 
     private static final List<String> languages = Arrays.asList(
-            "ha", "pl", "am", "ar", "az", "be", "bg", "bn",
+            "pl", "am", "ar", "be", "bg", "bn",
             "bs", "fr", "ga",
-            "ca", "cs", "da", "es", "et", "fa", "fi", "gl",
-            "it", "iw", "ja", "jv", "ka", "km", "ko", "ky",
+            "ca", "cs", "da", "es", "et", "fi", "gl",
+            "it", "iw", "ja", "ka", "km", "ko", "ky",
             "my", "nb", "ne", "nl", "nn", "no", "pa", "ro",
             "ru", "si", "sk", "sl", "sq", "sr",
             "sv", "sw", "ta", "te", "th", "tr", "vi", "zh", "zu", "kn", "kk",
-            "af", "de", "fil", "hi", "hr", "hu", "hy", "id", "in", "lo", "lv",
-            "mk", "ml", "mn", "pt", "uk", "ur", "ms", "is", "el", "mr"
+            "af", "de", "hi", "hr", "hu", "hy", "in", "lo", "lv",
+            "mk", "ml", "pt", "uk", "ur", "ms", "is", "el", "mr"
     );
 
     /**
@@ -47,7 +47,7 @@ public class ContentsExtractorImpl implements ContentsExtractor {
      */
     @Override
     public String deleteXmlNamesSpace(String resContents) {
-        return resContents.replace("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>", "\n");
+        return resContents.replace("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>", "");
     }
 
     /**
@@ -58,7 +58,7 @@ public class ContentsExtractorImpl implements ContentsExtractor {
      */
     @Override
     public String deleteClosingResourceTagFromContents(String resContents) {
-        return resContents.replace("</resources>", "\n").replace("<resources>", "");
+        return resContents.replace("<resources>", "");
     }
 
     /**
@@ -72,8 +72,21 @@ public class ContentsExtractorImpl implements ContentsExtractor {
 //                .collect(Collectors.toList()); //todo left this half way
         Map<String, File> sourceFiles = new HashMap<>();
         for (String language : languages) {
-            sourceFiles.put(language, new File(language));
+            sourceFiles.put(language, new File(language + ".xml"));
         }
         return sourceFiles;
+    }
+
+    /**
+     * Replace file contents with new labels
+     *
+     * @param fullText           - String origin full text
+     * @param contentToReplace   - String content, label or tags to replace
+     * @param replacementContent - String content, label or tags to serve as replacements
+     * @return String - Updated full text content
+     */
+    @Override
+    public String replaceDestinationFileContents(String fullText, String contentToReplace, String replacementContent) {
+        return fullText.replace(contentToReplace, replacementContent);
     }
 }

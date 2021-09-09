@@ -43,4 +43,14 @@ public interface ContentsExtractor {
      * @return - List of Files
      */
     Map<String, File> getSourcesFiles();
+
+    /**
+     * Replace file contents with new labels
+     *
+     * @param fullText - String origin full text
+     * @param contentToReplace - String content, label or tags to replace
+     * @param replacementContent - String content, label or tags to serve as replacements
+     * @return String - Updated full text content
+     */
+    String replaceDestinationFileContents(String fullText, String contentToReplace, String replacementContent);
 }

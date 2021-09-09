@@ -11,13 +11,29 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  * This is the typical runner
  */
 public class AndroidResFilesTaskApp {
+    private static final Logger log = Logger.getLogger(ContentMover.class.getSimpleName());
 
     public static void main(String[] args) throws IOException {
+
+        File androidResDir = null;
+
+        Scanner scanner = new Scanner(System.in);
+        String androidStudioResDirPath = scanner.nextLine();
+        if (androidStudioResDirPath.isEmpty()) {
+            log.log(Level.SEVERE, "Invalid file path entered, exiting...");
+            System.exit(0);
+        } else {
+            androidResDir = new File(androidStudioResDirPath);
+        }
+
         ContentsExtractor contentsExtractor = new ContentsExtractorImpl();
         Map<String, File> sourceFiles = contentsExtractor.getSourcesFiles();
 //        List<>sourceFiles.stream().map(contentsExtractor::getFileContents).collect(Collectors.toList());
@@ -33,8 +49,10 @@ public class AndroidResFilesTaskApp {
             for (Map.Entry<String, String> stringStringEntry : contentsMap.entrySet()) {
                 String cleanedUpContent = contentsExtractor.deleteXmlNamesSpace(stringStringEntry.getValue());
                 String evenCleanerContent = contentsExtractor.deleteClosingResourceTagFromContents(cleanedUpContent);
+                String muchCleanerContent = contentsExtractor.replaceDestinationFileContents(evenCleanerContent, "strings", "string");
+
                 Map<String, String> cleanContentMap = new HashMap<>();
-                cleanContentMap.put(stringStringEntry.getKey(), evenCleanerContent);
+                cleanContentMap.put(stringStringEntry.getKey(), muchCleanerContent);
                 cleanContentMapList.add(cleanContentMap);
             }
         }
@@ -42,7 +60,11 @@ public class AndroidResFilesTaskApp {
         ContentMover mover = new ContentMoverImpl();
         for (Map<String, String> contentsMap : cleanContentMapList) {
             for (Map.Entry<String, String> stringStringEntry : contentsMap.entrySet()) {
-                mover.pasteContentsToAndroidStudioSourceDir(sourceFiles.get(stringStringEntry.getKey()), stringStringEntry.getKey(), stringStringEntry.getValue());
+                mover.pasteContentsToAndroidStudioSourceDir(androidResDir, stringStringEntry.getKey(), stringStringEntry.getValue());
+                List<String> additionalKeys = mover.checkIfMoveMultipleFoldersBySignatureIfNecessary(stringStringEntry.getKey());
+                for (String additionalKey : additionalKeys) {
+                    mover.pasteContentsToAndroidStudioSourceDir(androidResDir, additionalKey, stringStringEntry.getValue());
+                }
             }
         }
     }
