@@ -1,4 +1,4 @@
-package org.owino.concept;
+package org.owino.localisation.concept;
 
 public interface DestinationFilesProcessor {
 

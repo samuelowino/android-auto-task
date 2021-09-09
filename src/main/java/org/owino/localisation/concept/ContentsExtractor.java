@@ -1,8 +1,7 @@
-package org.owino.concept;
+package org.owino.localisation.concept;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.List;
 import java.util.Map;
 
 /**

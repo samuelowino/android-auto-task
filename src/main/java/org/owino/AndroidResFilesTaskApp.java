@@ -1,9 +1,11 @@
 package org.owino;
 
-import org.owino.concept.ContentMover;
-import org.owino.concept.ContentsExtractor;
-import org.owino.impl.ContentMoverImpl;
-import org.owino.impl.ContentsExtractorImpl;
+import org.owino.localisation.ContentMoverImpl;
+import org.owino.localisation.ContentsExtractorImpl;
+import org.owino.localisation.concept.ContentMover;
+import org.owino.localisation.concept.ContentsExtractor;
+import org.owino.localisation.impl.ContentMoverImpl;
+import org.owino.localisation.impl.ContentsExtractorImpl;
 
 import java.io.File;
 import java.io.IOException;

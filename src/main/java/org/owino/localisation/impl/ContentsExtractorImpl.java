@@ -1,7 +1,7 @@
-package org.owino.impl;
+package org.owino.localisation.impl;
 
 import org.apache.commons.io.IOUtils;
-import org.owino.concept.ContentsExtractor;
+import org.owino.localisation.concept.ContentsExtractor;
 
 import java.io.File;
 import java.io.IOException;
