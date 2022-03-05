@@ -1,9 +1,8 @@
 package org.owino.localisation.impl;
 
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.IOUtils;
 import org.owino.localisation.concept.ContentMover;
 import org.owino.localisation.concept.ContentsExtractor;
+import org.owino.localisation.utils.IOUtils;
 
 import java.io.File;
 import java.io.IOException;
@@ -149,12 +148,22 @@ public class ContentMoverImpl implements ContentMover {
     @Override
     public boolean pasteContentsToAndroidStudioSourceDir(File rootAndroidStudioResSourceDir, String localeKey, String contents) throws IOException {
         localeKey = localeKey.replace(".xml", "");
-        File file = new File(rootAndroidStudioResSourceDir.getAbsolutePath() + "\\values-" + localeKey + "\\strings.xml");
-        String destinationContents = IOUtils.toString(file.toURI(), "utf-8");
+        File file = new File(rootAndroidStudioResSourceDir.getAbsolutePath() + "/values-" + localeKey + "/strings.xml");
+        String destinationContents = IOUtils.readExternalFileContents(file);
         ContentsExtractor contentsExtractor = new ContentsExtractorImpl();
-        String updatedDestinationContents = contentsExtractor.replaceDestinationFileContents(destinationContents, "</resources>", "");
-        FileUtils.writeStringToFile(file, updatedDestinationContents, false);
-        FileUtils.writeStringToFile(file, contents, true);
+        String updatedDestinationContents = contentsExtractor
+                .replaceDestinationFileContents(destinationContents, "</resources>", "");
+       // System.out.println("contents\n");
+       // System.out.println(contents);
+        System.out.println("\n\n");
+        String finalTextContent = updatedDestinationContents.concat(contents);
+        System.out.println("================================================");
+        System.out.println("finalTextContent");
+        System.out.println("================================================");
+        System.out.println(finalTextContent);
+        System.out.println("================================================");
+        //IOUtils.writeStringToFile(file, updatedDestinationContents);
+        IOUtils.writeStringToFile(file, finalTextContent);
         return true;
     }
 }

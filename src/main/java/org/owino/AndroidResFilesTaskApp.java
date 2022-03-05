@@ -1,7 +1,5 @@
 package org.owino;
 
-import org.owino.localisation.ContentMoverImpl;
-import org.owino.localisation.ContentsExtractorImpl;
 import org.owino.localisation.concept.ContentMover;
 import org.owino.localisation.concept.ContentsExtractor;
 import org.owino.localisation.impl.ContentMoverImpl;

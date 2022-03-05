@@ -1,10 +1,12 @@
 package org.owino.localisation.impl;
 
-import org.apache.commons.io.IOUtils;
 import org.owino.localisation.concept.ContentsExtractor;
+import org.owino.localisation.utils.IOUtils;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URISyntaxException;
+import java.net.URL;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
@@ -13,15 +15,15 @@ import java.util.Map;
 public class ContentsExtractorImpl implements ContentsExtractor {
 
     private static final List<String> languages = Arrays.asList(
-            "pl", "am", "ar", "be", "bg", "bn",
-            "bs", "fr", "ga",
-            "ca", "cs", "da", "es", "et", "fi", "gl",
-            "it", "iw", "ja", "ka", "km", "ko", "ky",
-            "my", "nb", "ne", "nl", "nn", "no", "pa", "ro",
-            "ru", "si", "sk", "sl", "sq", "sr",
-            "sv", "sw", "ta", "te", "th", "tr", "vi", "zh", "zu", "kn", "kk",
-            "af", "de", "hi", "hr", "hu", "hy", "in", "lo", "lv",
-            "mk", "ml", "pt", "uk", "ur", "ms", "is", "el", "mr"
+        "pl","am", "ar", "be", "bg", "bn",
+        "bs", "fr", "ga",
+        "ca", "cs", "da", "es", "et", "fi", "gl",
+        "it", "iw", "ja", "ka", "km", "ko", "ky",
+        "my", "nb", "ne", "nl", "nn", "no", "pa", "ro",
+        "ru", "si", "sk", "sl", "sq", "sr",
+        "sv", "sw", "ta", "te", "th", "tr", "vi", "zh", "zu", "kn", "kk",
+        "af", "de", "hi", "hr", "hu", "hy", "in", "lo", "lv",
+        "mk", "ml", "pt", "uk", "ur", "ms", "is", "el", "mr"
     );
 
     /**
@@ -32,7 +34,7 @@ public class ContentsExtractorImpl implements ContentsExtractor {
      */
     @Override
     public Map<String, String> getFileContents(File sourceResourceFile, String language) throws IOException {
-        String contents = IOUtils.toString(sourceResourceFile.toURI(), "utf-8");
+        String contents = IOUtils.readFileContents(sourceResourceFile);
         HashMap<String, String> mapContents = new HashMap<>();
         mapContents.put(language, contents);
         return mapContents;
@@ -72,7 +74,11 @@ public class ContentsExtractorImpl implements ContentsExtractor {
 //                .collect(Collectors.toList()); //todo left this half way
         Map<String, File> sourceFiles = new HashMap<>();
         for (String language : languages) {
-            sourceFiles.put(language, new File(language + ".xml"));
+            System.err.println("Language: " + language);
+            String fileUrl = IOUtils.loadResourceFileUrl(language + ".xml").toExternalForm();
+            System.out.println("fileUrl " + fileUrl);
+            File resourceFile = new File(fileUrl);
+            sourceFiles.put(language, resourceFile);
         }
         return sourceFiles;
     }
