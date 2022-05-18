@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Inkludera bankränta</strings>
+    <strings name="include_interest_rate_description">Ange räntan som erbjuds av ditt bankkonto, så att vi kan hjälpa dig att spåra räntan på ditt sparande över tiden.</strings>
+    <strings name="general_skip_rate_calculation">Hoppa över kursberäkning</strings>
+    <strings name="general_add_rate">Lägg till kurs</strings>
+    <strings name="interest_rate_per_year">Ränta per år</strings>
+    <strings name="general_bank_savings">Banksparande</strings>
+    <strings name="general_interest">intressera</strings>
+    <strings name="general_withdraw">Dra tillbaka</strings>
+    <strings name="general_click_to_create_new_habit">Klicka för att skapa en ny vana</strings>
+</resources>

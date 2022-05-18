@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">बैंक ब्याज दर शामिल करें</strings>
+    <strings name="include_interest_rate_description">अपने बैंक खाते द्वारा दी जाने वाली ब्याज दर दर्ज करें, ताकि हम समय के साथ आपकी बचत से अर्जित ब्याज को ट्रैक करने में आपकी सहायता कर सकें।</strings>
+    <strings name="general_skip_rate_calculation">दर गणना छोड़ें</strings>
+    <strings name="general_add_rate">दर जोड़ें</strings>
+    <strings name="interest_rate_per_year">प्रति वर्ष ब्याज दर</strings>
+    <strings name="general_bank_savings">बैंक बचत</strings>
+    <strings name="general_interest">रुचि</strings>
+    <strings name="general_withdraw">निकालना</strings>
+    <strings name="general_click_to_create_new_habit">नई आदत बनाने के लिए क्लिक करें</strings>
+</resources>

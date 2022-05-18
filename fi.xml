@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Sisällytä pankin korko</strings>
+    <strings name="include_interest_rate_description">Syötä pankkitilisi tarjoama korko, jotta voimme auttaa sinua seuraamaan säästöistäsi kertynyttä korkoa ajan mittaan.</strings>
+    <strings name="general_skip_rate_calculation">Ohita hinnan laskenta</strings>
+    <strings name="general_add_rate">Lisää korko</strings>
+    <strings name="interest_rate_per_year">Korko per vuosi</strings>
+    <strings name="general_bank_savings">Pankkisäästöt</strings>
+    <strings name="general_interest">kiinnostuksen kohde</strings>
+    <strings name="general_withdraw">Peruuttaa</strings>
+    <strings name="general_click_to_create_new_habit">Luo uusi tapa napsauttamalla</strings>
+</resources>

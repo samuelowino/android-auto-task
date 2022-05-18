@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Haɗa ƙimar riba ta banki</strings>
+    <strings name="include_interest_rate_description">Shigar da adadin ribar da asusun bankin ku ke bayarwa, domin mu taimaka muku bin diddigin ribar da kuka samu daga ajiyar ku akan lokaci.</strings>
+    <strings name="general_skip_rate_calculation">Tsallake lissafin ƙimar</strings>
+    <strings name="general_add_rate">Ƙara ƙima</strings>
+    <strings name="interest_rate_per_year">Yawan riba a kowace shekara</strings>
+    <strings name="general_bank_savings">Adana Banki</strings>
+    <strings name="general_interest">sha&amp;#39;awa</strings>
+    <strings name="general_withdraw">Janye</strings>
+    <strings name="general_click_to_create_new_habit">Danna don ƙirƙirar sabuwar al&amp;#39;ada</strings>
+</resources>

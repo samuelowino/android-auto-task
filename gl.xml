@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Inclúe o tipo de interese bancario</strings>
+    <strings name="include_interest_rate_description">Introduza o tipo de xuro que ofrece a súa conta bancaria, para que poidamos axudarche a facer un seguimento dos intereses que obteñan cos teus aforros ao longo do tempo.</strings>
+    <strings name="general_skip_rate_calculation">Cálculo da taxa de salto</strings>
+    <strings name="general_add_rate">Engadir taxa</strings>
+    <strings name="interest_rate_per_year">Tipo de xuro anual</strings>
+    <strings name="general_bank_savings">Aforro bancario</strings>
+    <strings name="general_interest">interese</strings>
+    <strings name="general_withdraw">Retirar</strings>
+    <strings name="general_click_to_create_new_habit">Fai clic para crear un novo hábito</strings>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Includeți rata dobânzii bancare</strings>
+    <strings name="include_interest_rate_description">Introduceți rata dobânzii oferită de contul dvs. bancar, astfel încât să vă putem ajuta să urmăriți dobânda câștigată din economiile dvs. în timp.</strings>
+    <strings name="general_skip_rate_calculation">Calcul ratei de ignorare</strings>
+    <strings name="general_add_rate">Adaugă tarif</strings>
+    <strings name="interest_rate_per_year">Rata dobânzii pe an</strings>
+    <strings name="general_bank_savings">Economii bancare</strings>
+    <strings name="general_interest">interes</strings>
+    <strings name="general_withdraw">Retrage</strings>
+    <strings name="general_click_to_create_new_habit">Faceți clic pentru a crea un nou obicei</strings>
+</resources>

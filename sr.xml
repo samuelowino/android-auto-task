@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Укључите банкарску каматну стопу</strings>
+    <strings name="include_interest_rate_description">Унесите камату коју нуди ваш банковни рачун, тако да вам можемо помоћи да пратите камату зарађену од ваше штедње током времена.</strings>
+    <strings name="general_skip_rate_calculation">Израчунавање стопе прескакања</strings>
+    <strings name="general_add_rate">Додајте стопу</strings>
+    <strings name="interest_rate_per_year">Каматна стопа годишње</strings>
+    <strings name="general_bank_savings">Банковна штедња</strings>
+    <strings name="general_interest">камата</strings>
+    <strings name="general_withdraw">Повуци се</strings>
+    <strings name="general_click_to_create_new_habit">Кликните да бисте створили нову навику</strings>
+</resources>

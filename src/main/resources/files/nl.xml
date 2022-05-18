@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Inclusief bankrente</strings>
+    <strings name="include_interest_rate_description">Voer het rentepercentage van uw bankrekening in, zodat we u kunnen helpen bij het bijhouden van de rente die u in de loop van de tijd op uw spaargeld hebt verdiend.</strings>
+    <strings name="general_skip_rate_calculation">Tariefberekening overslaan</strings>
+    <strings name="general_add_rate">Tarief toevoegen</strings>
+    <strings name="interest_rate_per_year">Rente per jaar</strings>
+    <strings name="general_bank_savings">Banksparen</strings>
+    <strings name="general_interest">interesse</strings>
+    <strings name="general_withdraw">Terugtrekken</strings>
+    <strings name="general_click_to_create_new_habit">Klik om een nieuwe gewoonte te creëren</strings>
+</resources>

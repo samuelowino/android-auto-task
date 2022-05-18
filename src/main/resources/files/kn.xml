@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">ಬ್ಯಾಂಕ್ ಬಡ್ಡಿ ದರವನ್ನು ಸೇರಿಸಿ</strings>
+    <strings name="include_interest_rate_description">ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಯು ನೀಡುವ ಬಡ್ಡಿ ದರವನ್ನು ನಮೂದಿಸಿ, ಇದರಿಂದ ನಿಮ್ಮ ಉಳಿತಾಯದಿಂದ ಗಳಿಸಿದ ಬಡ್ಡಿಯನ್ನು ಕಾಲಾನಂತರದಲ್ಲಿ ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ನಾವು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದು.</strings>
+    <strings name="general_skip_rate_calculation">ದರ ಲೆಕ್ಕಾಚಾರವನ್ನು ಬಿಟ್ಟುಬಿಡಿ</strings>
+    <strings name="general_add_rate">ದರ ಸೇರಿಸಿ</strings>
+    <strings name="interest_rate_per_year">ವರ್ಷಕ್ಕೆ ಬಡ್ಡಿ ದರ</strings>
+    <strings name="general_bank_savings">ಬ್ಯಾಂಕ್ ಉಳಿತಾಯ</strings>
+    <strings name="general_interest">ಆಸಕ್ತಿ</strings>
+    <strings name="general_withdraw">ಹಿಂತೆಗೆದುಕೊಳ್ಳಿ</strings>
+    <strings name="general_click_to_create_new_habit">ಹೊಸ ಅಭ್ಯಾಸವನ್ನು ರಚಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ</strings>
+</resources>

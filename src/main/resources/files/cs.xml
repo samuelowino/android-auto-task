@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Zahrňte bankovní úrokovou sazbu</strings>
+    <strings name="include_interest_rate_description">Zadejte úrokovou sazbu, kterou nabízí váš bankovní účet, abychom vám mohli pomoci sledovat úroky získané z vašich úspor v průběhu času.</strings>
+    <strings name="general_skip_rate_calculation">Výpočet míry přeskočení</strings>
+    <strings name="general_add_rate">Přidat sazbu</strings>
+    <strings name="interest_rate_per_year">Úroková sazba za rok</strings>
+    <strings name="general_bank_savings">Bankovní spoření</strings>
+    <strings name="general_interest">zájem</strings>
+    <strings name="general_withdraw">Ustoupit</strings>
+    <strings name="general_click_to_create_new_habit">Kliknutím vytvoříte nový zvyk</strings>
+</resources>

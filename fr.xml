@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Inclure le taux d&amp;#39;intérêt bancaire</strings>
+    <strings name="include_interest_rate_description">Entrez le taux d&amp;#39;intérêt offert par votre compte bancaire, afin que nous puissions vous aider à suivre les intérêts gagnés sur votre épargne au fil du temps.</strings>
+    <strings name="general_skip_rate_calculation">Calcul du taux de saut</strings>
+    <strings name="general_add_rate">Ajouter un tarif</strings>
+    <strings name="interest_rate_per_year">Taux d&amp;#39;intérêt par an</strings>
+    <strings name="general_bank_savings">Épargne bancaire</strings>
+    <strings name="general_interest">l&amp;#39;intérêt</strings>
+    <strings name="general_withdraw">Retirer</strings>
+    <strings name="general_click_to_create_new_habit">Cliquez pour créer une nouvelle habitude</strings>
+</resources>

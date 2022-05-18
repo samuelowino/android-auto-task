@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">ဘဏ်အတိုးနှုန်းကို ထည့်သွင်းပါ။</strings>
+    <strings name="include_interest_rate_description">သင့်ငွေစုမှ ရရှိသော အတိုးနှုန်းကို အချိန်နှင့်အမျှ ခြေရာခံနိုင်ရန် သင့်ဘဏ်အကောင့်မှ ကမ်းလှမ်းထားသော အတိုးနှုန်းကို ထည့်သွင်းပါ။</strings>
+    <strings name="general_skip_rate_calculation">နှုန်းတွက်ချက်မှုကို ကျော်ပါ။</strings>
+    <strings name="general_add_rate">ထည့်နှုန်း</strings>
+    <strings name="interest_rate_per_year">တစ်နှစ်လျှင် အတိုးနှုန်း</strings>
+    <strings name="general_bank_savings">ဘဏ်စုငွေ</strings>
+    <strings name="general_interest">အကျိုးစီးပွား</strings>
+    <strings name="general_withdraw">ငွေထုတ်ပါ။</strings>
+    <strings name="general_click_to_create_new_habit">အလေ့အကျင့်အသစ်ဖန်တီးရန် နှိပ်ပါ။</strings>
+</resources>

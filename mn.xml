@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Банкны зээлийн хүүг оруулаарай</strings>
+    <strings name="include_interest_rate_description">Банкны данснаас санал болгож буй хүүгийн хэмжээг оруулна уу, ингэснээр бид таны хадгаламжаас олсон хүүг цаг хугацааны явцад хянахад тусална.</strings>
+    <strings name="general_skip_rate_calculation">Үнийн тооцоог алгасах</strings>
+    <strings name="general_add_rate">Үнэ нэмэх</strings>
+    <strings name="interest_rate_per_year">Жилийн хүү</strings>
+    <strings name="general_bank_savings">Банкны хадгаламж</strings>
+    <strings name="general_interest">сонирхол</strings>
+    <strings name="general_withdraw">Татаж авах</strings>
+    <strings name="general_click_to_create_new_habit">Шинэ зуршил үүсгэхийн тулд товшино уу</strings>
+</resources>

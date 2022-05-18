@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Sertakan suku bunga bank</strings>
+    <strings name="include_interest_rate_description">Masukkan tingkat bunga yang ditawarkan oleh rekening bank Anda, sehingga kami dapat membantu Anda melacak bunga yang diperoleh dari tabungan Anda dari waktu ke waktu.</strings>
+    <strings name="general_skip_rate_calculation">Lewati perhitungan tarif</strings>
+    <strings name="general_add_rate">Tambahkan tarif</strings>
+    <strings name="interest_rate_per_year">Tingkat bunga per tahun</strings>
+    <strings name="general_bank_savings">Tabungan Bank</strings>
+    <strings name="general_interest">minat</strings>
+    <strings name="general_withdraw">Menarik</strings>
+    <strings name="general_click_to_create_new_habit">Klik untuk membuat kebiasaan baru</strings>
+</resources>

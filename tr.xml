@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Banka faiz oranını dahil et</strings>
+    <strings name="include_interest_rate_description">Zaman içinde birikimlerinizden kazandığınız faizi takip etmenize yardımcı olabilmemiz için banka hesabınızın sunduğu faiz oranını girin.</strings>
+    <strings name="general_skip_rate_calculation">Hız hesaplamasını atla</strings>
+    <strings name="general_add_rate">Oran ekle</strings>
+    <strings name="interest_rate_per_year">Yıllık faiz oranı</strings>
+    <strings name="general_bank_savings">Banka Tasarrufları</strings>
+    <strings name="general_interest">faiz</strings>
+    <strings name="general_withdraw">Geri çekilmek</strings>
+    <strings name="general_click_to_create_new_habit">Yeni alışkanlık oluşturmak için tıklayın</strings>
+</resources>

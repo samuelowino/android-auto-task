@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">ਬੈਂਕ ਵਿਆਜ ਦਰ ਸ਼ਾਮਲ ਕਰੋ</strings>
+    <strings name="include_interest_rate_description">ਆਪਣੇ ਬੈਂਕ ਖਾਤੇ ਦੁਆਰਾ ਪੇਸ਼ ਕੀਤੀ ਗਈ ਵਿਆਜ ਦਰ ਨੂੰ ਦਾਖਲ ਕਰੋ, ਤਾਂ ਜੋ ਅਸੀਂ ਸਮੇਂ ਦੇ ਨਾਲ ਤੁਹਾਡੀ ਬਚਤ ਤੋਂ ਕਮਾਏ ਵਿਆਜ ਨੂੰ ਟਰੈਕ ਕਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕੀਏ।</strings>
+    <strings name="general_skip_rate_calculation">ਦਰ ਦੀ ਗਣਨਾ ਛੱਡੋ</strings>
+    <strings name="general_add_rate">ਦਰ ਜੋੜੋ</strings>
+    <strings name="interest_rate_per_year">ਪ੍ਰਤੀ ਸਾਲ ਵਿਆਜ ਦਰ</strings>
+    <strings name="general_bank_savings">ਬੈਂਕ ਬਚਤ</strings>
+    <strings name="general_interest">ਦਿਲਚਸਪੀ</strings>
+    <strings name="general_withdraw">ਵਾਪਸ ਲੈ ਲਓ</strings>
+    <strings name="general_click_to_create_new_habit">ਨਵੀਂ ਆਦਤ ਬਣਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ</strings>
+</resources>

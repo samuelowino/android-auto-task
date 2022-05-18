@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">은행 금리 포함</strings>
+    <strings name="include_interest_rate_description">은행 계좌에서 제공하는 이자율을 입력하면 시간이 지남에 따라 저축에서 얻은 이자를 추적할 수 있습니다.</strings>
+    <strings name="general_skip_rate_calculation">스킵율 계산</strings>
+    <strings name="general_add_rate">요금 추가</strings>
+    <strings name="interest_rate_per_year">연 이자율</strings>
+    <strings name="general_bank_savings">은행 저축</strings>
+    <strings name="general_interest">관심</strings>
+    <strings name="general_withdraw">철회하다</strings>
+    <strings name="general_click_to_create_new_habit">새 습관을 만들려면 클릭하세요.</strings>
+</resources>

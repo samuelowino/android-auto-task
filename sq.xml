@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Përfshini normën e interesit bankar</strings>
+    <strings name="include_interest_rate_description">Futni normën e interesit të ofruar nga llogaria juaj bankare, në mënyrë që ne t&amp;#39;ju ndihmojmë të gjurmoni interesin e fituar nga kursimet tuaja me kalimin e kohës.</strings>
+    <strings name="general_skip_rate_calculation">Kapërceni llogaritjen e normës</strings>
+    <strings name="general_add_rate">Shto normën</strings>
+    <strings name="interest_rate_per_year">Norma e interesit në vit</strings>
+    <strings name="general_bank_savings">Kursimet bankare</strings>
+    <strings name="general_interest">interesi</strings>
+    <strings name="general_withdraw">Të tërheqë</strings>
+    <strings name="general_click_to_create_new_habit">Klikoni për të krijuar zakon të ri</strings>
+</resources>

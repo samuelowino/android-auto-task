@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Банктык пайыздык ченди камтыйт</strings>
+    <strings name="include_interest_rate_description">Банк эсебиңиз сунуш кылган пайыздык ченди киргизиңиз, биз сизге убакыттын өтүшү менен аманатыңыздан түшкөн пайыздарды көзөмөлдөөгө жардам бере алабыз.</strings>
+    <strings name="general_skip_rate_calculation">Баалоо эсебин өткөрүп жиберүү</strings>
+    <strings name="general_add_rate">Бааны кошуу</strings>
+    <strings name="interest_rate_per_year">Жылына пайыздык чен</strings>
+    <strings name="general_bank_savings">Банктык аманат</strings>
+    <strings name="general_interest">кызыгуу</strings>
+    <strings name="general_withdraw">тартып алуу</strings>
+    <strings name="general_click_to_create_new_habit">Жаңы адат түзүү үчүн чыкылдатыңыз</strings>
+</resources>

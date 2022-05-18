@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">銀行の金利を含める</strings>
+    <strings name="include_interest_rate_description">銀行口座が提供する金利を入力してください。そうすれば、貯蓄から得た利息を長期にわたって追跡できます。</strings>
+    <strings name="general_skip_rate_calculation">スキップ率の計算</strings>
+    <strings name="general_add_rate">レートを追加</strings>
+    <strings name="interest_rate_per_year">年間の利率</strings>
+    <strings name="general_bank_savings">銀行貯蓄</strings>
+    <strings name="general_interest">興味</strings>
+    <strings name="general_withdraw">撤退</strings>
+    <strings name="general_click_to_create_new_habit">クリックして新しい習慣を作成します</strings>
+</resources>

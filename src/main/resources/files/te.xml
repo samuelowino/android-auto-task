@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">బ్యాంక్ వడ్డీ రేటును చేర్చండి</strings>
+    <strings name="include_interest_rate_description">మీ బ్యాంక్ ఖాతా అందించే వడ్డీ రేటును నమోదు చేయండి, తద్వారా మీరు కాలక్రమేణా మీ పొదుపు నుండి వచ్చిన వడ్డీని ట్రాక్ చేయడంలో మేము మీకు సహాయం చేస్తాము.</strings>
+    <strings name="general_skip_rate_calculation">రేటు గణనను దాటవేయి</strings>
+    <strings name="general_add_rate">రేటు జోడించండి</strings>
+    <strings name="interest_rate_per_year">సంవత్సరానికి వడ్డీ రేటు</strings>
+    <strings name="general_bank_savings">బ్యాంక్ సేవింగ్స్</strings>
+    <strings name="general_interest">ఆసక్తి</strings>
+    <strings name="general_withdraw">ఉపసంహరించుకోండి</strings>
+    <strings name="general_click_to_create_new_habit">కొత్త అలవాటును సృష్టించడానికి క్లిక్ చేయండి</strings>
+</resources>

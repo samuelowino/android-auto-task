@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Jumuisha kiwango cha riba cha benki</strings>
+    <strings name="include_interest_rate_description">Weka kiwango cha riba kinachotolewa na akaunti yako ya benki, ili tuweze kukusaidia kufuatilia riba uliyopata kutokana na akiba yako kwa muda.</strings>
+    <strings name="general_skip_rate_calculation">Ruka kiwango cha kuhesabu</strings>
+    <strings name="general_add_rate">Ongeza kiwango</strings>
+    <strings name="interest_rate_per_year">Kiwango cha riba kwa mwaka</strings>
+    <strings name="general_bank_savings">Akiba ya Benki</strings>
+    <strings name="general_interest">hamu</strings>
+    <strings name="general_withdraw">Kutoa</strings>
+    <strings name="general_click_to_create_new_habit">Bofya ili kuunda tabia mpya</strings>
+</resources>

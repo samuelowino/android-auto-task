@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">بینک کی شرح سود شامل کریں۔</strings>
+    <strings name="include_interest_rate_description">اپنے بینک اکاؤنٹ کی طرف سے پیش کردہ سود کی شرح درج کریں، تاکہ ہم وقت کے ساتھ ساتھ آپ کی بچت سے حاصل کردہ سود کو ٹریک کرنے میں آپ کی مدد کر سکیں۔</strings>
+    <strings name="general_skip_rate_calculation">شرح کا حساب کتاب چھوڑ دیں۔</strings>
+    <strings name="general_add_rate">شرح شامل کریں۔</strings>
+    <strings name="interest_rate_per_year">شرح سود فی سال</strings>
+    <strings name="general_bank_savings">بینک بچت</strings>
+    <strings name="general_interest">دلچسپی</strings>
+    <strings name="general_withdraw">واپس لینا</strings>
+    <strings name="general_click_to_create_new_habit">نئی عادت بنانے کے لیے کلک کریں۔</strings>
+</resources>

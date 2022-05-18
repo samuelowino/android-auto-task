@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">የባንክ ወለድ መጠንን ያካትቱ</strings>
+    <strings name="include_interest_rate_description">በጊዜ ሂደት ከቁጠባ ያገኙትን ወለድ ለመከታተል እንዲረዳን በባንክ ሂሳብዎ የቀረበውን የወለድ መጠን ያስገቡ።</strings>
+    <strings name="general_skip_rate_calculation">ተመን ስሌት ዝለል</strings>
+    <strings name="general_add_rate">መጠን ይጨምሩ</strings>
+    <strings name="interest_rate_per_year">የወለድ መጠን በዓመት</strings>
+    <strings name="general_bank_savings">የባንክ ቁጠባዎች</strings>
+    <strings name="general_interest">ፍላጎት</strings>
+    <strings name="general_withdraw">ማውጣት</strings>
+    <strings name="general_click_to_create_new_habit">አዲስ ልማድ ለመፍጠር ጠቅ ያድርጉ</strings>
+</resources>

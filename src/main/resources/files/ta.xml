@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">வங்கி வட்டி விகிதத்தைச் சேர்க்கவும்</strings>
+    <strings name="include_interest_rate_description">உங்கள் வங்கிக் கணக்கு வழங்கும் வட்டி விகிதத்தை உள்ளிடவும், இதன் மூலம் காலப்போக்கில் உங்கள் சேமிப்பிலிருந்து கிடைக்கும் வட்டியைக் கண்காணிக்க நாங்கள் உங்களுக்கு உதவ முடியும்.</strings>
+    <strings name="general_skip_rate_calculation">விகித கணக்கீட்டைத் தவிர்க்கவும்</strings>
+    <strings name="general_add_rate">விகிதத்தைச் சேர்க்கவும்</strings>
+    <strings name="interest_rate_per_year">வருடத்திற்கு வட்டி விகிதம்</strings>
+    <strings name="general_bank_savings">வங்கி சேமிப்பு</strings>
+    <strings name="general_interest">ஆர்வம்</strings>
+    <strings name="general_withdraw">திரும்பப் பெறவும்</strings>
+    <strings name="general_click_to_create_new_habit">புதிய பழக்கத்தை உருவாக்க கிளிக் செய்யவும்</strings>
+</resources>

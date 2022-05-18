@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Уключыце банкаўскую працэнтную стаўку</strings>
+    <strings name="include_interest_rate_description">Увядзіце працэнтную стаўку, якую прапануе ваш банкаўскі рахунак, каб мы маглі дапамагчы вам адсочваць працэнты, атрыманыя з вашых зберажэнняў з цягам часу.</strings>
+    <strings name="general_skip_rate_calculation">Разлік стаўкі пропуску</strings>
+    <strings name="general_add_rate">Дадаць стаўку</strings>
+    <strings name="interest_rate_per_year">Працэнтная стаўка ў год</strings>
+    <strings name="general_bank_savings">Банкаўскія зберажэнні</strings>
+    <strings name="general_interest">цікавасць</strings>
+    <strings name="general_withdraw">Зняць</strings>
+    <strings name="general_click_to_create_new_habit">Націсніце, каб стварыць новую звычку</strings>
+</resources>

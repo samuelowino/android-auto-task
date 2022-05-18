@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Inkluder bankrente</strings>
+    <strings name="include_interest_rate_description">Skriv inn renten som tilbys av bankkontoen din, slik at vi kan hjelpe deg med å spore renter opptjent på sparepengene dine over tid.</strings>
+    <strings name="general_skip_rate_calculation">Hopp over satsberegning</strings>
+    <strings name="general_add_rate">Legg til rate</strings>
+    <strings name="interest_rate_per_year">Rente per år</strings>
+    <strings name="general_bank_savings">Banksparing</strings>
+    <strings name="general_interest">renter</strings>
+    <strings name="general_withdraw">Ta ut</strings>
+    <strings name="general_click_to_create_new_habit">Klikk for å lage ny vane</strings>
+</resources>

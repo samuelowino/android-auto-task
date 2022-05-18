@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Tartalmazza a banki kamatot</strings>
+    <strings name="include_interest_rate_description">Adja meg a bankszámlája által kínált kamatlábat, így segítünk nyomon követni a megtakarításaiból származó kamatokat az idő múlásával.</strings>
+    <strings name="general_skip_rate_calculation">Kihagyási arány számítása</strings>
+    <strings name="general_add_rate">Adjon hozzá arányt</strings>
+    <strings name="interest_rate_per_year">Éves kamat</strings>
+    <strings name="general_bank_savings">Banki megtakarítások</strings>
+    <strings name="general_interest">érdeklődés</strings>
+    <strings name="general_withdraw">Visszavonás</strings>
+    <strings name="general_click_to_create_new_habit">Kattintson az új szokás létrehozásához</strings>
+</resources>

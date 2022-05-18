@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Faka nenani lenzalo yasebhange</strings>
+    <strings name="include_interest_rate_description">Faka inani lenzalo elinikezwa i-akhawunti yakho yasebhange, ukuze sikusize ulandelele inzalo oyizuzile ngokulondoloza kwakho ngokuhamba kwesikhathi.</strings>
+    <strings name="general_skip_rate_calculation">Isibalo sezinga lokweqa</strings>
+    <strings name="general_add_rate">Engeza isilinganiso</strings>
+    <strings name="interest_rate_per_year">Izinga lenzalo ngonyaka</strings>
+    <strings name="general_bank_savings">Ukonga Ebhange</strings>
+    <strings name="general_interest">isithakazelo</strings>
+    <strings name="general_withdraw">Hoxisa</strings>
+    <strings name="general_click_to_create_new_habit">Chofoza ukuze udale umkhuba omusha</strings>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Zahrňte bankovú úrokovú sadzbu</strings>
+    <strings name="include_interest_rate_description">Zadajte úrokovú sadzbu, ktorú ponúka váš bankový účet, aby sme vám mohli pomôcť sledovať úroky získané z vašich úspor v priebehu času.</strings>
+    <strings name="general_skip_rate_calculation">Výpočet miery preskočenia</strings>
+    <strings name="general_add_rate">Pridať sadzbu</strings>
+    <strings name="interest_rate_per_year">Úroková sadzba za rok</strings>
+    <strings name="general_bank_savings">Bankové sporenie</strings>
+    <strings name="general_interest">záujem</strings>
+    <strings name="general_withdraw">Odstúpiť</strings>
+    <strings name="general_click_to_create_new_habit">Kliknutím vytvoríte nový zvyk</strings>
+</resources>

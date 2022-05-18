@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Включить банковскую процентную ставку</strings>
+    <strings name="include_interest_rate_description">Введите процентную ставку, предлагаемую вашим банковским счетом, чтобы мы могли помочь вам отслеживать проценты, полученные от ваших сбережений с течением времени.</strings>
+    <strings name="general_skip_rate_calculation">Расчет коэффициента пропуска</strings>
+    <strings name="general_add_rate">Добавить ставку</strings>
+    <strings name="interest_rate_per_year">Процентная ставка в год</strings>
+    <strings name="general_bank_savings">Банковские сбережения</strings>
+    <strings name="general_interest">интерес</strings>
+    <strings name="general_withdraw">Изымать</strings>
+    <strings name="general_click_to_create_new_habit">Нажмите, чтобы создать новую привычку</strings>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Iekļaut bankas procentu likmi</strings>
+    <strings name="include_interest_rate_description">Ievadiet sava bankas konta piedāvāto procentu likmi, lai mēs varētu palīdzēt izsekot no uzkrājumiem nopelnītajiem procentiem laika gaitā.</strings>
+    <strings name="general_skip_rate_calculation">Izlaist likmes aprēķins</strings>
+    <strings name="general_add_rate">Pievienot likmi</strings>
+    <strings name="interest_rate_per_year">Procentu likme gadā</strings>
+    <strings name="general_bank_savings">Bankas ietaupījumi</strings>
+    <strings name="general_interest">interese</strings>
+    <strings name="general_withdraw">Izņemt</strings>
+    <strings name="general_click_to_create_new_habit">Noklikšķiniet, lai izveidotu jaunu ieradumu</strings>
+</resources>

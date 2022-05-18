@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Bankzinsen einbeziehen</strings>
+    <strings name="include_interest_rate_description">Geben Sie den von Ihrem Bankkonto angebotenen Zinssatz ein, damit wir Ihnen helfen können, die Zinserträge aus Ihren Ersparnissen im Laufe der Zeit nachzuverfolgen.</strings>
+    <strings name="general_skip_rate_calculation">Berechnung der Sprungrate</strings>
+    <strings name="general_add_rate">Rate hinzufügen</strings>
+    <strings name="interest_rate_per_year">Zinssatz pro Jahr</strings>
+    <strings name="general_bank_savings">Banksparen</strings>
+    <strings name="general_interest">Interesse</strings>
+    <strings name="general_withdraw">Zurückziehen</strings>
+    <strings name="general_click_to_create_new_habit">Klicken Sie hier, um eine neue Gewohnheit zu erstellen</strings>
+</resources>

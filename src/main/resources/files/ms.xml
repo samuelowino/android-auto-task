@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Sertakan kadar faedah bank</strings>
+    <strings name="include_interest_rate_description">Masukkan kadar faedah yang ditawarkan oleh akaun bank anda, supaya kami boleh membantu anda menjejaki faedah yang diperoleh daripada simpanan anda dari semasa ke semasa.</strings>
+    <strings name="general_skip_rate_calculation">langkau pengiraan kadar</strings>
+    <strings name="general_add_rate">Tambah kadar</strings>
+    <strings name="interest_rate_per_year">Kadar faedah setahun</strings>
+    <strings name="general_bank_savings">Simpanan Bank</strings>
+    <strings name="general_interest">minat</strings>
+    <strings name="general_withdraw">tarik diri</strings>
+    <strings name="general_click_to_create_new_habit">Klik untuk mencipta tabiat baharu</strings>
+</resources>

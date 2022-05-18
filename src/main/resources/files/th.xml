@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">รวมอัตราดอกเบี้ยธนาคาร</strings>
+    <strings name="include_interest_rate_description">ป้อนอัตราดอกเบี้ยที่บัญชีธนาคารของคุณเสนอ เพื่อให้เราสามารถช่วยคุณติดตามดอกเบี้ยที่ได้รับจากการออมของคุณเมื่อเวลาผ่านไป</strings>
+    <strings name="general_skip_rate_calculation">ข้ามการคำนวณอัตรา</strings>
+    <strings name="general_add_rate">เพิ่มอัตรา</strings>
+    <strings name="interest_rate_per_year">อัตราดอกเบี้ยต่อปี</strings>
+    <strings name="general_bank_savings">ออมทรัพย์ธนาคาร</strings>
+    <strings name="general_interest">น่าสนใจ</strings>
+    <strings name="general_withdraw">ถอน</strings>
+    <strings name="general_click_to_create_new_habit">คลิกเพื่อสร้างนิสัยใหม่</strings>
+</resources>

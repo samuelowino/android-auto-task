@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">ລວມອັດຕາດອກເບ້ຍທະນາຄານ</strings>
+    <strings name="include_interest_rate_description">ໃສ່ອັດຕາດອກເບ້ຍທີ່ສະເໜີໃຫ້ໂດຍບັນຊີທະນາຄານຂອງເຈົ້າ, ເພື່ອວ່າພວກເຮົາຈະສາມາດຊ່ວຍໃຫ້ທ່ານຕິດຕາມດອກເບ້ຍທີ່ໄດ້ຮັບຈາກເງິນຝາກປະຢັດຂອງເຈົ້າໃນໄລຍະເວລາ.</strings>
+    <strings name="general_skip_rate_calculation">ຂ້າມການຄິດໄລ່ອັດຕາ</strings>
+    <strings name="general_add_rate">ເພີ່ມອັດຕາ</strings>
+    <strings name="interest_rate_per_year">ອັດຕາດອກເບ້ຍຕໍ່ປີ</strings>
+    <strings name="general_bank_savings">ເງິນຝາກປະຢັດທະນາຄານ</strings>
+    <strings name="general_interest">ຄວາມສົນໃຈ</strings>
+    <strings name="general_withdraw">ຖອນ</strings>
+    <strings name="general_click_to_create_new_habit">ຄລິກເພື່ອສ້າງນິໄສໃໝ່</strings>
+</resources>

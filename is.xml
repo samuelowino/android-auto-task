@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Taka með bankavexti</strings>
+    <strings name="include_interest_rate_description">Sláðu inn vextina sem bankareikningurinn þinn býður upp á, svo að við getum hjálpað þér að fylgjast með vöxtum sem aflað er af sparnaði þínum með tímanum.</strings>
+    <strings name="general_skip_rate_calculation">Slepptu gjaldskrá</strings>
+    <strings name="general_add_rate">Bæta við gengi</strings>
+    <strings name="interest_rate_per_year">Vextir á ári</strings>
+    <strings name="general_bank_savings">Bankasparnaður</strings>
+    <strings name="general_interest">áhuga</strings>
+    <strings name="general_withdraw">Draga til baka</strings>
+    <strings name="general_click_to_create_new_habit">Smelltu til að búa til nýja vana</strings>
+</resources>

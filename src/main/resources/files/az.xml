@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Bank faiz dərəcəsi daxildir</strings>
+    <strings name="include_interest_rate_description">Bank hesabınızın təklif etdiyi faiz dərəcəsini daxil edin ki, biz sizə zamanla əmanətlərinizdən qazandığınız faizləri izləməkdə kömək edə bilək.</strings>
+    <strings name="general_skip_rate_calculation">Faiz hesablamasını atlayın</strings>
+    <strings name="general_add_rate">Dərəcə əlavə edin</strings>
+    <strings name="interest_rate_per_year">İllik faiz dərəcəsi</strings>
+    <strings name="general_bank_savings">Bank Əmanətləri</strings>
+    <strings name="general_interest">maraq</strings>
+    <strings name="general_withdraw">geri çəkilmək</strings>
+    <strings name="general_click_to_create_new_habit">Yeni vərdiş yaratmaq üçün klikləyin</strings>
+</resources>

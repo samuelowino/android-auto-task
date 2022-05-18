@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Ներառեք բանկային տոկոսադրույքը</strings>
+    <strings name="include_interest_rate_description">Մուտքագրեք ձեր բանկային հաշվի կողմից առաջարկվող տոկոսադրույքը, որպեսզի մենք կարողանանք օգնել ձեզ ժամանակի ընթացքում հետևել ձեր խնայողություններից ստացված տոկոսներին:</strings>
+    <strings name="general_skip_rate_calculation">Բաց թողնել տոկոսադրույքի հաշվարկը</strings>
+    <strings name="general_add_rate">Ավելացնել տոկոսադրույքը</strings>
+    <strings name="interest_rate_per_year">Տարեկան տոկոսադրույք</strings>
+    <strings name="general_bank_savings">Բանկային խնայողություններ</strings>
+    <strings name="general_interest">հետաքրքրություն</strings>
+    <strings name="general_withdraw">հանել</strings>
+    <strings name="general_click_to_create_new_habit">Սեղմեք՝ նոր սովորություն ստեղծելու համար</strings>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">बँक व्याज दर समाविष्ट करा</strings>
+    <strings name="include_interest_rate_description">तुमच्या बँक खात्याद्वारे दिलेला व्याजदर एंटर करा, जेणेकरून आम्ही तुम्हाला तुमच्या बचतीतून मिळालेल्या व्याजाचा मागोवा घेण्यास मदत करू शकू.</strings>
+    <strings name="general_skip_rate_calculation">दर गणना वगळा</strings>
+    <strings name="general_add_rate">दर जोडा</strings>
+    <strings name="interest_rate_per_year">प्रति वर्ष व्याज दर</strings>
+    <strings name="general_bank_savings">बँक बचत</strings>
+    <strings name="general_interest">व्याज</strings>
+    <strings name="general_withdraw">मागे घ्या</strings>
+    <strings name="general_click_to_create_new_habit">नवीन सवय तयार करण्यासाठी क्लिक करा</strings>
+</resources>

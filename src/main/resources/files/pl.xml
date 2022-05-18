@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Uwzględnij oprocentowanie banku</strings>
+    <strings name="include_interest_rate_description">Wprowadź oprocentowanie oferowane przez Twoje konto bankowe, abyśmy mogli pomóc Ci śledzić odsetki uzyskane z Twoich oszczędności w czasie.</strings>
+    <strings name="general_skip_rate_calculation">Pomiń obliczanie stawki</strings>
+    <strings name="general_add_rate">Dodaj stawkę</strings>
+    <strings name="interest_rate_per_year">Oprocentowanie na rok</strings>
+    <strings name="general_bank_savings">Oszczędności bankowe</strings>
+    <strings name="general_interest">odsetki</strings>
+    <strings name="general_withdraw">Wycofać</strings>
+    <strings name="general_click_to_create_new_habit">Kliknij, aby stworzyć nowy nawyk</strings>
+</resources>

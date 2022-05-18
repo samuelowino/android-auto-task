@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Cuir ráta úis bainc san áireamh</strings>
+    <strings name="include_interest_rate_description">Cuir isteach an ráta úis a thairgeann do chuntas bainc, ionas gur féidir linn cabhrú leat an t-ús a thuilltear ó do choigilteas a rianú thar am.</strings>
+    <strings name="general_skip_rate_calculation">Léim ríomh an ráta</strings>
+    <strings name="general_add_rate">Cuir ráta leis</strings>
+    <strings name="interest_rate_per_year">Ráta úis in aghaidh na bliana</strings>
+    <strings name="general_bank_savings">Coigiltis Bainc</strings>
+    <strings name="general_interest">leas</strings>
+    <strings name="general_withdraw">A tharraingt siar</strings>
+    <strings name="general_click_to_create_new_habit">Cliceáil chun nós nua a chruthú</strings>
+</resources>

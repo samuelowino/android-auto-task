@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">شامل نرخ سود بانکی</strings>
+    <strings name="include_interest_rate_description">نرخ سود ارائه شده توسط حساب بانکی خود را وارد کنید تا بتوانیم به شما کمک کنیم تا سود حاصل از پس انداز خود را در طول زمان پیگیری کنید.</strings>
+    <strings name="general_skip_rate_calculation">رد شدن از محاسبه نرخ</strings>
+    <strings name="general_add_rate">اضافه کردن نرخ</strings>
+    <strings name="interest_rate_per_year">نرخ بهره در سال</strings>
+    <strings name="general_bank_savings">پس انداز بانکی</strings>
+    <strings name="general_interest">علاقه</strings>
+    <strings name="general_withdraw">کنار کشیدن</strings>
+    <strings name="general_click_to_create_new_habit">برای ایجاد عادت جدید کلیک کنید</strings>
+</resources>

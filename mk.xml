@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Вклучете ја банкарската каматна стапка</strings>
+    <strings name="include_interest_rate_description">Внесете ја каматната стапка што ја нуди вашата банкарска сметка, за да можеме да ви помогнеме да ја следите каматата заработена од вашите заштеди со текот на времето.</strings>
+    <strings name="general_skip_rate_calculation">Прескокнете ја пресметката на стапката</strings>
+    <strings name="general_add_rate">Додадете стапка</strings>
+    <strings name="interest_rate_per_year">Каматна стапка годишно</strings>
+    <strings name="general_bank_savings">Банкарски заштеди</strings>
+    <strings name="general_interest">интерес</strings>
+    <strings name="general_withdraw">Повлечете</strings>
+    <strings name="general_click_to_create_new_habit">Кликнете за да создадете нова навика</strings>
+</resources>

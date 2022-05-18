@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Includere il tasso di interesse bancario</strings>
+    <strings name="include_interest_rate_description">Inserisci il tasso di interesse offerto dal tuo conto bancario, in modo che possiamo aiutarti a tenere traccia degli interessi guadagnati dai tuoi risparmi nel tempo.</strings>
+    <strings name="general_skip_rate_calculation">Salta il calcolo del tasso</strings>
+    <strings name="general_add_rate">Aggiungi tariffa</strings>
+    <strings name="interest_rate_per_year">Tasso di interesse all&amp;#39;anno</strings>
+    <strings name="general_bank_savings">Risparmio bancario</strings>
+    <strings name="general_interest">interesse</strings>
+    <strings name="general_withdraw">Ritirare</strings>
+    <strings name="general_click_to_create_new_habit">Fare clic per creare una nuova abitudine</strings>
+</resources>

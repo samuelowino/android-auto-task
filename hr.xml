@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Uključuje bankovnu kamatnu stopu</strings>
+    <strings name="include_interest_rate_description">Unesite kamatnu stopu koju nudi vaš bankovni račun kako bismo vam mogli pomoći u praćenju kamata zarađenih od vaše štednje tijekom vremena.</strings>
+    <strings name="general_skip_rate_calculation">Izračun stope preskakanja</strings>
+    <strings name="general_add_rate">Dodajte stopu</strings>
+    <strings name="interest_rate_per_year">Godišnja kamatna stopa</strings>
+    <strings name="general_bank_savings">Bankovna štednja</strings>
+    <strings name="general_interest">interes</strings>
+    <strings name="general_withdraw">Povući</strings>
+    <strings name="general_click_to_create_new_habit">Kliknite za stvaranje nove navike</strings>
+</resources>

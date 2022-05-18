@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Включете банковия лихвен процент</strings>
+    <strings name="include_interest_rate_description">Въведете лихвения процент, предлаган от вашата банкова сметка, за да можем да ви помогнем да проследите лихвите, спечелени от вашите спестявания във времето.</strings>
+    <strings name="general_skip_rate_calculation">Изчисляване на процента на пропускане</strings>
+    <strings name="general_add_rate">Добавяне на тарифа</strings>
+    <strings name="interest_rate_per_year">Лихвен процент на година</strings>
+    <strings name="general_bank_savings">Банкови спестявания</strings>
+    <strings name="general_interest">интерес</strings>
+    <strings name="general_withdraw">оттегли се</strings>
+    <strings name="general_click_to_create_new_habit">Кликнете, за да създадете нов навик</strings>
+</resources>

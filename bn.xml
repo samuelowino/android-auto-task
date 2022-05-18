@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">ব্যাঙ্কের সুদের হার অন্তর্ভুক্ত করুন</strings>
+    <strings name="include_interest_rate_description">আপনার ব্যাঙ্ক অ্যাকাউন্টের দেওয়া সুদের হার লিখুন, যাতে আমরা আপনাকে সময়ের সাথে আপনার সঞ্চয় থেকে অর্জিত সুদ ট্র্যাক করতে সাহায্য করতে পারি।</strings>
+    <strings name="general_skip_rate_calculation">হার গণনা এড়িয়ে যান</strings>
+    <strings name="general_add_rate">হার যোগ করুন</strings>
+    <strings name="interest_rate_per_year">প্রতি বছর সুদের হার</strings>
+    <strings name="general_bank_savings">ব্যাংক সেভিংস</strings>
+    <strings name="general_interest">স্বার্থ</strings>
+    <strings name="general_withdraw">প্রত্যাহার করুন</strings>
+    <strings name="general_click_to_create_new_habit">নতুন অভ্যাস তৈরি করতে ক্লিক করুন</strings>
+</resources>

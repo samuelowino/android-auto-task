@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Inclou el tipus d&amp;#39;interès bancari</strings>
+    <strings name="include_interest_rate_description">Introduïu el tipus d&amp;#39;interès que ofereix el vostre compte bancari, de manera que us ajudem a fer un seguiment dels interessos obtinguts pels vostres estalvis al llarg del temps.</strings>
+    <strings name="general_skip_rate_calculation">Càlcul de la taxa de salt</strings>
+    <strings name="general_add_rate">Afegeix tarifa</strings>
+    <strings name="interest_rate_per_year">Taxa d&amp;#39;interès anual</strings>
+    <strings name="general_bank_savings">Estalvi bancari</strings>
+    <strings name="general_interest">interès</strings>
+    <strings name="general_withdraw">Retirar</strings>
+    <strings name="general_click_to_create_new_habit">Feu clic per crear un nou hàbit</strings>
+</resources>

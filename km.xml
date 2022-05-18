@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">រួមបញ្ចូលអត្រាការប្រាក់របស់ធនាគារ</strings>
+    <strings name="include_interest_rate_description">បញ្ចូលអត្រាការប្រាក់ដែលផ្តល់ដោយគណនីធនាគាររបស់អ្នក ដូច្នេះយើងអាចជួយអ្នកក្នុងការតាមដានការប្រាក់ដែលទទួលបានពីការសន្សំរបស់អ្នកតាមពេលវេលា។</strings>
+    <strings name="general_skip_rate_calculation">រំលងការគណនាអត្រា</strings>
+    <strings name="general_add_rate">បន្ថែមអត្រា</strings>
+    <strings name="interest_rate_per_year">អត្រាការប្រាក់ក្នុងមួយឆ្នាំ</strings>
+    <strings name="general_bank_savings">ការសន្សំធនាគារ</strings>
+    <strings name="general_interest">ចំណាប់អារម្មណ៍</strings>
+    <strings name="general_withdraw">ដក</strings>
+    <strings name="general_click_to_create_new_habit">ចុចដើម្បីបង្កើតទម្លាប់ថ្មី។</strings>
+</resources>

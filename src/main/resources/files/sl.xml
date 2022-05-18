@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Vključuje bančno obrestno mero</strings>
+    <strings name="include_interest_rate_description">Vnesite obrestno mero, ki jo ponuja vaš bančni račun, da vam bomo lahko pomagali spremljati obresti iz vaših prihrankov skozi čas.</strings>
+    <strings name="general_skip_rate_calculation">Izračun stopnje preskoka</strings>
+    <strings name="general_add_rate">Dodaj stopnjo</strings>
+    <strings name="interest_rate_per_year">Obrestna mera na leto</strings>
+    <strings name="general_bank_savings">Bančno varčevanje</strings>
+    <strings name="general_interest">obresti</strings>
+    <strings name="general_withdraw">Dvigniti</strings>
+    <strings name="general_click_to_create_new_habit">Kliknite za ustvarjanje nove navade</strings>
+</resources>

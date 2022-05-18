@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">包括银行利率</strings>
+    <strings name="include_interest_rate_description">输入您的银行账户提供的利率，以便我们可以帮助您跟踪您的储蓄随着时间的推移所赚取的利息。</strings>
+    <strings name="general_skip_rate_calculation">跳过率计算</strings>
+    <strings name="general_add_rate">添加率</strings>
+    <strings name="interest_rate_per_year">年利率</strings>
+    <strings name="general_bank_savings">存款</strings>
+    <strings name="general_interest">兴趣</strings>
+    <strings name="general_withdraw">提取</strings>
+    <strings name="general_click_to_create_new_habit">点击创建新习惯</strings>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">כלול ריבית בנקאית</strings>
+    <strings name="include_interest_rate_description">הזן את שיעור הריבית שמציע חשבון הבנק שלך, כדי שנוכל לעזור לך לעקוב אחר הריבית שהרווחת מהחסכונות שלך לאורך זמן.</strings>
+    <strings name="general_skip_rate_calculation">דילוג על חישוב שיעור</strings>
+    <strings name="general_add_rate">הוסף שיעור</strings>
+    <strings name="interest_rate_per_year">ריבית לשנה</strings>
+    <strings name="general_bank_savings">חיסכון בנקאי</strings>
+    <strings name="general_interest">ריבית</strings>
+    <strings name="general_withdraw">לָסֶגֶת</strings>
+    <strings name="general_click_to_create_new_habit">לחץ כדי ליצור הרגל חדש</strings>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Sluit bankrentekoers in</strings>
+    <strings name="include_interest_rate_description">Voer die rentekoers in wat deur jou bankrekening aangebied word, sodat ons jou kan help om rente wat oor tyd uit jou spaargeld verdien word, op te spoor.</strings>
+    <strings name="general_skip_rate_calculation">Slaan koersberekening oor</strings>
+    <strings name="general_add_rate">Voeg koers by</strings>
+    <strings name="interest_rate_per_year">Rentekoers per jaar</strings>
+    <strings name="general_bank_savings">Bank Spaar</strings>
+    <strings name="general_interest">belangstelling</strings>
+    <strings name="general_withdraw">Onttrek</strings>
+    <strings name="general_click_to_create_new_habit">Klik om nuwe gewoonte te skep</strings>
+</resources>

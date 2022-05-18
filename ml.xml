@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">ബാങ്ക് പലിശ നിരക്ക് ഉൾപ്പെടുത്തുക</strings>
+    <strings name="include_interest_rate_description">നിങ്ങളുടെ ബാങ്ക് അക്കൗണ്ട് വാഗ്ദാനം ചെയ്യുന്ന പലിശ നിരക്ക് നൽകുക, അതുവഴി നിങ്ങളുടെ സമ്പാദ്യത്തിൽ നിന്ന് കാലക്രമേണ ലഭിക്കുന്ന പലിശ ട്രാക്ക് ചെയ്യാൻ ഞങ്ങൾക്ക് നിങ്ങളെ സഹായിക്കാനാകും.</strings>
+    <strings name="general_skip_rate_calculation">നിരക്ക് കണക്കുകൂട്ടൽ ഒഴിവാക്കുക</strings>
+    <strings name="general_add_rate">നിരക്ക് ചേർക്കുക</strings>
+    <strings name="interest_rate_per_year">പ്രതിവർഷം പലിശ നിരക്ക്</strings>
+    <strings name="general_bank_savings">ബാങ്ക് സേവിംഗ്സ്</strings>
+    <strings name="general_interest">പലിശ</strings>
+    <strings name="general_withdraw">പിൻവലിക്കുക</strings>
+    <strings name="general_click_to_create_new_habit">പുതിയ ശീലം സൃഷ്ടിക്കാൻ ക്ലിക്ക് ചെയ്യുക</strings>
+</resources>

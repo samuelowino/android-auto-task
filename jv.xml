@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">Kalebu suku bunga bank</strings>
+    <strings name="include_interest_rate_description">Ketik tingkat bunga sing ditawakake akun bank, supaya kita bisa mbantu sampeyan nglacak kapentingan sing ditampa saka tabungan saka wektu.</strings>
+    <strings name="general_skip_rate_calculation">Skip rate pitungan</strings>
+    <strings name="general_add_rate">Tambah tarif</strings>
+    <strings name="interest_rate_per_year">Tingkat bunga saben taun</strings>
+    <strings name="general_bank_savings">Tabungan Bank</strings>
+    <strings name="general_interest">kepincut</strings>
+    <strings name="general_withdraw">mbatalake</strings>
+    <strings name="general_click_to_create_new_habit">Klik kanggo nggawe pakulinan anyar</strings>
+</resources>

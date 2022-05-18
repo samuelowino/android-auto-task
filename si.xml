@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">බැංකු පොලී අනුපාතය ඇතුළත් කරන්න</strings>
+    <strings name="include_interest_rate_description">ඔබගේ බැංකු ගිණුමෙන් පිරිනමනු ලබන පොලී අනුපාතය ඇතුළත් කරන්න, එවිට ඔබට කාලයත් සමඟ ඔබේ ඉතුරුම්වලින් උපයන පොලිය නිරීක්ෂණය කිරීමට අපට උදවු කළ හැක.</strings>
+    <strings name="general_skip_rate_calculation">අනුපාත ගණනය කිරීම මඟ හරින්න</strings>
+    <strings name="general_add_rate">අනුපාතය එකතු කරන්න</strings>
+    <strings name="interest_rate_per_year">වසරකට පොලී අනුපාතය</strings>
+    <strings name="general_bank_savings">බැංකු ඉතුරුම්</strings>
+    <strings name="general_interest">උනන්දුව</strings>
+    <strings name="general_withdraw">ආපසු ගන්න</strings>
+    <strings name="general_click_to_create_new_habit">නව පුරුද්දක් ඇති කිරීමට ක්ලික් කරන්න</strings>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <strings name="general_include_bank_interest_rate">قم بتضمين سعر الفائدة البنكي</strings>
+    <strings name="include_interest_rate_description">أدخل سعر الفائدة الذي يقدمه حسابك المصرفي ، حتى نتمكن من مساعدتك على تتبع الفائدة المكتسبة من مدخراتك بمرور الوقت.</strings>
+    <strings name="general_skip_rate_calculation">تخطي حساب معدل</strings>
+    <strings name="general_add_rate">أضف السعر</strings>
+    <strings name="interest_rate_per_year">معدل الفائدة في السنة</strings>
+    <strings name="general_bank_savings">المدخرات المصرفية</strings>
+    <strings name="general_interest">فائدة</strings>
+    <strings name="general_withdraw">انسحب</strings>
+    <strings name="general_click_to_create_new_habit">انقر لخلق عادة جديدة</strings>
+</resources>
